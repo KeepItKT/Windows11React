@@ -125,7 +125,7 @@
   "Users": {
     "Default": {},
     "Public": {},
-    "Blue": {
+    "User": {
       "AppData": {},
       "config.cfg": {},
       "Contacts": {},
@@ -155,7 +155,7 @@
       "Searches": {},
       "StartMenu": {},
       "supersecret.txt": {
-        "content": "github: github.com/blueedgetechno\nwebsite: blueedge.me"
+        "content": "github: github.com/ImKTKota\nwebsite: example.com"
       },
       "Templates": {},
       "VirtualBoxVMs": {},
