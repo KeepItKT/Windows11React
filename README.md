@@ -2,7 +2,6 @@
 
 [![Follow me](https://img.shields.io/github/followers/ImKTKota?label=follow%20me&style=social)](https://github.com/ImKTKota)
 [![Follow Twitter](https://img.shields.io/twitter/follow/ImKTKota?label=Follow%20me&style=social)](https://twitter.com/ImKTKota)
-[![Join (Coming Soon) ](https://img.shields.io/discord/868499076432408627.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://example.com)
 [![Build](https://github.com/ImKTKota/Windows11React/actions/workflows/deploy.yml/badge.svg?branch=master)](https://github.com/ImKTKota/Windows11React/actions/workflows/deploy.yml)
 ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Windows11React/status/master/api/win11-react/uptime.json)
 
@@ -15,16 +14,11 @@ This open source project is made in the hope to replicate the Windows 11 desktop
 >#### This project is **not in anyway affiliated with Microsoft** and **should not be confused with Microsoft’s Operating System** or Products.
 >#### This is also not Windows 365 cloud PC.
 
-**THIS IS NOT THE APP STORE REPO**
 
-
-
-
-
-work in progress 
+**work in progress 
 
 ------------
- #### Live Experience🌈: [win11.blueedge.me](https://win11.blueedge.me)
+
 
 ![home](./public/img/home.jpg)
 
