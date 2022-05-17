@@ -12,7 +12,7 @@ export const WnTerminal = ()=>{
     "OS [Version 10.0.22000.51]",
     ""
   ]);
-  const [pwd, setPwd] = useState("C:\\Users\\Blue");
+  const [pwd, setPwd] = useState("C:\\Users\\User");
   const [lastCmd, setLsc] = useState(0);
   const [wntitle, setWntitle] = useState("Terminal");
 
@@ -159,25 +159,25 @@ export const WnTerminal = ()=>{
     }else if (type=="title") {
       setWntitle(arg.length?arg:"Terminal");
     }else if (type=="hostname") {
-      tmpStack.push("blue");
+      tmpStack.push("User");
     }else if (type=="lang-test") {
       i18next.changeLanguage("fr-FR");
       tmpStack.push("French");  
-    }else if (type=="blue") {
-      tmpStack.push("blueedgetechno");
+    }else if (type=="User") {
+      tmpStack.push("User");
     }else if (type=="dev") {
-      tmpStack.push("https://dev.blueedge.me/");
+      tmpStack.push("https://example.com");
     }else if (type=="ver") {
       tmpStack.push("OS [Version 10.0.22000.51]");
     }else if (type=="systeminfo") {
       var dvInfo = [
-        "Host Name:                 BLUE",
-        "OS Name:                   Win11React Dummys Edition",
+        "Host Name:                 User",
+        "OS Name:                   Windows11React Dummys Edition",
         "OS Version:                10.0.22000 N/A Build 22000.51",
         "OS Manufacturer:           ",
         "OS Configuration:          Standalone Workstation",
         "OS Build Type:             Multiprocessor Free",
-        "Registered Owner:          Blue",
+        "Registered Owner:          User",
         "Registered Organization:   N/A",
         "Product ID:                7H1S1-5AP1R-473DV-3R5I0N"
       ];
