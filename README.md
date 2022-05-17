@@ -79,7 +79,7 @@ WHY NOT? Why not just waste a week of your life creating a React project, just t
 - What is the answer of Life, the Universe, and Everything?
   - 69
 
-    ![answer](./public/answer.png)
+  
 ## Local Deployment
 
 
@@ -91,14 +91,14 @@ WHY NOT? Why not just waste a week of your life creating a React project, just t
 
 # Compiled
 
-You can find a compiled `.exe` in the **Releases** section or via clicking [HERE](https://github.com/ImKTKota/Windows11React/releases)
+You can find a compiled `.exe` in the **Releases** section or via clicking [HERE](https://github.com/ImKTKota/Windows11React/releases) if I decide to post it.
 
 
 
 
 ## Online Deployment
 
-Just open Vercel and enter the link lmao
+Just open Vercel and enter the link lmao.
 
 
 ## Contributors
