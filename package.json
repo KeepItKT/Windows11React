@@ -1,7 +1,7 @@
 {
-  "name": "win11React",
+  "name": "windows11React",
   "description": "Win11 made in React",
-  "repository": "https://github.com/blueedgetechno/win11React",
+  "repository": "https://github.com/ImKTKota/Windows11React",
   "version": "0.1.1",
   "private": true,
   "dependencies": {
