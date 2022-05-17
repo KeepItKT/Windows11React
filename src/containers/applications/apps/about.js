@@ -33,14 +33,14 @@ export const AboutWin = () => {
         <p>{t('about.opensource')}</p>
         <p>
           {t('about.licensed')}&nbsp;
-          <a target="_blank" href="https://github.com/blueedgetechno/win11React/blob/master/LICENSE" rel="noreferrer">
+          <a target="_blank" href="https://github.com/ImKTKota/Windows11React/blob/master/LICENSE" rel="noreferrer">
             {t('about.Creative-Commons')}
           </a>
           .
         </p>
         <p className="pl-4">
           {t('about.contact')} :&nbsp;
-          <a target="_blank" href="mailto:blue@win11react.com" rel="noreferrer">
+          <a target="_blank" href="mailto:notworking@notworking.com" rel="noreferrer">
             blue@win11react.com
           </a>
         </p>
