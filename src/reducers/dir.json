@@ -74,9 +74,9 @@
               "Public Videos": {}
             }
           },
-          "Blue": {
+          "User": {
             "type": "folder",
-            "name": "Blue",
+            "name": "User",
             "info": {
               "spid": "%user%",
               "icon": "user"
@@ -170,24 +170,24 @@
                   "spid": "%github%"
                 },
                 "data": {
-                  "atomforces": {},
-                  "blueapi": {},
-                  "BlueBlog": {},
-                  "BlueBlogs---A-social-platform": {},
-                  "blueedgetechno": {},
-                  "blueedgetechno.github.io": {},
-                  "blueimage": {},
-                  "bluelab": {},
-                  "blueothello": {},
-                  "blueweb": {},
-                  "codeblue": {},
+                  "the hub": {},
+                  "the hub api": {},
+                  "edp445": {},
+                  "you like kids": {},
+                  "moinecroft": {},
+                  "gitslub": {},
+                  "userimage": {},
+                  "baba": {},
+                  "nroom": {},
+                  "sussy": {},
+                  "mommy": {},
                   "handwritten-digit-recognition": {},
-                  "jiosaavn": {},
-                  "jiosaavn-api": {},
+                  "youtube": {},
+                  "daddy": {},
                   "minesweeper": {},
                   "othello": {},
-                  "Saavn-Downloader": {},
-                  "Sanfoundary": {}
+                  "YT-Downloader": {},
+                  "xvideos": {}
                 }
               },
               "OneDrive": {
@@ -198,7 +198,7 @@
                   "icon": "onedrive"
                 },
                 "data": {
-                  "Atom": {
+                  "EDP445 Content": {
                     "data": {
                       "Codeforces": {},
                       "JavaScript": {},
