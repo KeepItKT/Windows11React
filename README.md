@@ -2,8 +2,7 @@
 
 [![Follow me](https://img.shields.io/github/followers/ImKTKota?label=follow%20me&style=social)](https://github.com/ImKTKota)
 [![Follow Twitter](https://img.shields.io/twitter/follow/ImKTKota?label=Follow%20me&style=social)](https://twitter.com/ImKTKota)
-[![Build](https://github.com/ImKTKota/Windows11React/actions/workflows/deploy.yml/badge.svg?branch=master)](https://github.com/ImKTKota/Windows11React/actions/workflows/deploy.yml)
-![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Windows11React/status/master/api/win11-react/uptime.json)
+
 
 
 
