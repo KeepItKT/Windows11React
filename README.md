@@ -19,11 +19,11 @@ This open source project is made in the hope to replicate the Windows 11 desktop
 ------------
 
 
-![home](./public/img/home.jpg)
+
 
 # Gallery
 
-![image](https://user-images.githubusercontent.com/89068816/154832868-6ec81a0b-0bc3-4e77-a4bf-3391b852fe9c.png)
+
 
 ![pic1](./public/img/gallery2.jpg)
 
