@@ -228,7 +228,7 @@ const NavPane = ({})=>{
       <div className="extcont">
         <Dropdown icon="star" title="Quick access" action="" isDropped>
           <Dropdown icon="down" title="Downloads" spid="%downloads%" notoggle pinned/>
-          <Dropdown icon="user" title="Blue" spid="%user%" notoggle pinned/>
+          <Dropdown icon="user" title="User" spid="%user%" notoggle pinned/>
           <Dropdown icon="docs" title="Documents" spid="%documents%" notoggle pinned/>
           <Dropdown title="Github" spid="%github%" notoggle/>
           <Dropdown icon="pics" title="Pictures" spid="%pictures%" notoggle/>
@@ -242,7 +242,7 @@ const NavPane = ({})=>{
           <Dropdown icon="pics" title="Pictures" spid="%pictures%"/>
           <Dropdown icon="vid" title="Videos" spid="%videos%"/>
           <Dropdown icon="disc" title="OS (C:)" spid="%cdrive%"/>
-          <Dropdown icon="disk" title="Blue (D:)" spid="%ddrive%"/>
+          <Dropdown icon="disk" title="User (D:)" spid="%ddrive%"/>
         </Dropdown>
       </div>
     </div>
