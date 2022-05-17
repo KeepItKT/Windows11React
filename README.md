@@ -10,14 +10,15 @@
 This open source project is made in the hope to replicate the Windows 11 desktop experience on web, using standard web technologies like React, CSS (SCSS), and JS.
 
 ## Notice
->#### This project is **not in anyway affiliated with Microsoft** and **should not be confused with Microsoft’s Operating System** or Products.
->#### This is also not Windows 365 cloud PC.
-
->### I did not make this project! This is a fork of win11React by @blueedgetechno
->### This project is forked from there and I'm working on making this an evolved and faster version of the original project!
+>### This project is **not in anyway affiliated with Microsoft** and **should not be confused with Microsoft’s Operating System** or Products.
+>### This is also not Windows 365 cloud PC.
 
 
-**work in progress 
+>#### I did not make this project! This is a fork of win11React by @blueedgetechno
+>#### This project is forked from there and I'm working on making this an evolved and faster version of the original project!
+
+
+
 
 ------------
 
