@@ -1,13 +1,13 @@
 # Win11 in React!
 
 [![Follow me](https://img.shields.io/github/followers/ImKTKota?label=follow%20me&style=social)](https://github.com/ImKTKota)
-[![Follow Twitter](https://img.shields.io/twitter/follow/blueedgetechno?label=Follow%20me&style=social)](https://twitter.com/blueedgetechno)
-[![Join](https://img.shields.io/discord/868499076432408627.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/NcjaNdwtnR)
-[![Build](https://github.com/blueedgetechno/win11React/actions/workflows/deploy.yml/badge.svg?branch=master)](https://github.com/blueedgetechno/win11React/actions/workflows/deploy.yml)
+[![Follow Twitter](https://img.shields.io/twitter/follow/ImKTKota?label=Follow%20me&style=social)](https://twitter.com/ImKTKota)
+[![Join (Coming Soon) ](https://img.shields.io/discord/868499076432408627.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://example.com)
+[![Build](https://github.com/ImKTKota/win11react/actions/workflows/deploy.yml/badge.svg?branch=master)](https://github.com/ImKTKota/win11React/actions/workflows/deploy.yml)
 ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/win11react/status/master/api/win11-react/uptime.json)
-[![translate](https://badges.crowdin.net/win11react/localized.svg)](https://translate.win11react.com/)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/blueedgetechno)
+
+
 
 This open source project is made in the hope to replicate the Windows 11 desktop experience on web, using standard web technologies like React, CSS (SCSS), and JS.
 
@@ -19,9 +19,7 @@ This open source project is made in the hope to replicate the Windows 11 desktop
 
 [App Store](https://github.com/win11react/store)
 
-**Docs SITE**
 
-https://win11react-docs.andrewstech.me/
 
 work in progress 
 
