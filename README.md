@@ -1,4 +1,4 @@
-# Win11 in React!
+# Win11 in React! [Discontinued]
 
 [![Follow me](https://img.shields.io/github/followers/ImKTKota?label=follow%20me&style=social)](https://github.com/ImKTKota)
 [![Follow Twitter](https://img.shields.io/twitter/follow/ImKTKota?label=Follow%20me&style=social)](https://twitter.com/ImKTKota)
