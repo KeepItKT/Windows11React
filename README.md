@@ -1,7 +1,7 @@
 # Win11 in React! [Discontinued]
 
-[![Follow me](https://img.shields.io/github/followers/ImKTKota?label=follow%20me&style=social)](https://github.com/ImKTKota)
-[![Follow Twitter](https://img.shields.io/twitter/follow/ImKTKota?label=Follow%20me&style=social)](https://twitter.com/ImKTKota)
+[![Follow me](https://img.shields.io/github/followers/KeepItKT?label=follow%20me&style=social)](https://github.com/KeepItKT)
+
 
 
 
@@ -15,7 +15,7 @@ This open source project is made in the hope to replicate the Windows 11 desktop
 
 
 >#### I did not make this project! This is a fork of win11React by @blueedgetechno
->#### This project is forked from there and I'm working on making this an evolved and faster version of the original project!
+>#### This project is forked from there and I'm just tampering with it to my liking.
 
 
 
